@@ -1,5 +1,3 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/CodeFreezr/awesome-graphviz) 
-
 # Awesome GraphViz [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of GraphViz related resources.  
@@ -12,6 +10,7 @@ The list includes tools that complement Graphviz, such as graph generators, post
 
 You're welcome to add new stuff or report glitches. See [contributing.md](contributing.md) how to pull requests.  
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/CodeFreezr/awesome-graphviz) 
 
 ## Table of Content
 * [Graphviz Distribution](#graphviz-distribution)
